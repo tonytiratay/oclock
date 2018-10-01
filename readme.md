@@ -9,7 +9,7 @@ Si je devais exprimer mon "niveau" en **React**, je dirais que je suis confirmé
 > **React** a été pour moi un coup de foudre depuis que je l'ai découvert il y a environ 3 ans. 
 >J'ai suivi beaucoup de cours en ligne sur *Udemy* pour le comprendre en profondeur, tout en continuant d'explorer et de découvrir **MeteorJS** pour le backend (un framework **NodeJS**). 
 >
-> Au delà de **React**, j'essayais d'apprendre comment il pouvait s'intégrer dans cet environnement Full Stack, tout en essayant parrallèlement de l'intégrer avec **Redux**, que je découvrais également. 
+Au delà de **React**, j'essayais d'apprendre comment il pouvait s'intégrer dans cet environnement Full Stack, tout en essayant parrallèlement de l'intégrer avec **Redux**, que je découvrais également. 
 
 ### Création d'une formation fullStack JS
 
@@ -27,7 +27,7 @@ Ce que je retire vraiment de cette experience finalement, c'est surtout la bien 
 >
 > Ces derniers retouvaient la liste des contenus postés par le formateur, puis lors de l'affichage d'une ressource, via l'**api de github**, un composant récupérait le **markdown** pour afficher le cours dans l'interface, en générant automatiquement un menu avec arborescence des chapitres du cours (en analysant les titres et sous titres).
 >
-> Ce dashboard a été testé et utilisé avec deux promotions **Wordpress** par Simplon.
+Ce dashboard a été testé et utilisé avec deux promotions **Wordpress** par Simplon.
 
 ### Création de la plateforme d'apprentissage de Simplon
 
@@ -72,5 +72,5 @@ https://app.pluralsight.com/profile/tonytiratay
 >
 > J'apprécie le fait que le temps de travail soit réparti entre formation / accompagnement des apprenants, et amélioration / création de contenus et de solutions pour votre plateforme.
 >
-> **C'est ce autour de quoi je gravite depuis les débuts de ma carrière professionnelle**, et O'clock est pour moi une sorte de quintescence de ce que j'ai pu apprendre au cours de cette dernière dizaine d'années. Je reconnais l'experience derrière vos mots, j'adorerais évoluer avec vous, pour apprendre de votre experience, et également partager la mienne.
+**C'est ce autour de quoi je gravite depuis les débuts de ma carrière professionnelle**, et O'clock est pour moi une sorte de quintescence de ce que j'ai pu apprendre au cours de cette dernière dizaine d'années. Je reconnais l'experience derrière vos mots, j'adorerais évoluer avec vous, pour apprendre de votre experience, et également partager la mienne.
 
