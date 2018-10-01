@@ -35,7 +35,7 @@ Ce dashboard a été testé et utilisé avec deux promotions **Wordpress** par S
 >
 > D'une durée d'environ un an et demi, ce projet m'a évidemment permis de consolider ma comprehension des différentes technologies utilisées, mais j'ai pu surtout progresser dans la structuration de projets plus volumineux et complexes.
 >
-> Parmi les fonctionnalités développées :
+> **Parmi les fonctionnalités développées :**
 > * Création / administration de compétences
 > * Création / administration de référentiels de compétences
 > * Création / administration de classes liées à un référentiel
