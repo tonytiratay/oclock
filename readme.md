@@ -9,7 +9,7 @@ Si je devais exprimer mon "niveau" en **React**, je dirais que je suis confirmé
 > **React** a été pour moi un coup de foudre depuis que je l'ai découvert il y a environ 3 ans. 
 >J'ai suivi beaucoup de cours en ligne sur *Udemy* pour le comprendre en profondeur, tout en continuant d'explorer et de découvrir **MeteorJS** pour le backend (un framework **NodeJS**). 
 >
-Au delà de **React**, j'essayais d'apprendre comment il pouvait s'intégrer dans cet environnement Full Stack, tout en essayant parrallèlement de l'intégrer avec **Redux**, que je découvrais également. 
+Au delà de **React**, j'essayais d'apprendre comment il pouvait s'intégrer dans cet environnement Full Stack, tout en essayant parallèlement de l'intégrer avec **Redux**, que je découvrais également. 
 
 ### Création d'une formation fullStack JS
 
@@ -51,9 +51,9 @@ Ce dashboard a été testé et utilisé avec deux promotions **Wordpress** par S
 > * ...
 ### Depuis
 
-> J'en apprend encore tous les jours sur React et les technos qui gravitent autour, et j'ai peu eu à explorer certains gros pans comme **Babel** ou **Grunt / Gulp** puisque les environnements de développement que j'utilise (**meteor** ou **create-react-app**) automatisent l'utilisation de l'ES6 et le process de build.
+> J'en apprends encore tous les jours sur React et les technos qui gravitent autour. J'ai par exemple peu exploré certains pans comme **Babel** ou **Grunt / Gulp**, puisque les environnements de développement que j'utilise (**meteor** ou **create-react-app**) automatisent l'utilisation de l'ES6 et le process de build.
 >
-> J'ai par contre par curiosité personnelle pu me plonger dans les tests avec **Jest**, ou explorer **React Native**, ou du **React** simple dans une application **Electron**.
+> En revanche, j'ai, par curiosité personnelle, pu me plonger dans les tests avec **Jest**, explorer **React Native**, ou du **React** simple dans une application **Electron**.
 
 Si cela a une quelquonque valeur pour vous, j'ai également passé quelques tests sur pluralsight, avant tout à des fins d'auto-évaluation.
 
@@ -66,7 +66,7 @@ https://app.pluralsight.com/profile/tonytiratay
 ![logoOclock](./oclock.png)
 > Ça sonne un peu comme une évidence pour moi. Si nous avons l'occasion de parler plus en détail de mon parcours, vous verrez que **l'éducation par le numérique est au coeur de mon identité professionnelle**, et personnelle. 
 >
-> Lorsque j'ai parcouru votre site, le programme, la méthode, la philosophie en général, j'ai eu le sentiment que j'aurais pu écrire moi même ces mots... En moins bien bien sûr ;) ! 
+> Lorsque j'ai parcouru votre site, le programme, la méthode, la philosophie en général, j'ai eu le sentiment que j'aurais pu écrire moi même ces mots... En moins bien, bien sûr ;) ! 
 >
 > Ça, c'est pour votre philosphie côté apprenant. Concernant votre politique de travail, pour ce que j'ai pu lire dans vos fiches de poste, je m'y retrouve également à 100%.
 >
