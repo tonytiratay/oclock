@@ -55,6 +55,11 @@ Ce que je retire vraiment de cette experience finalement, c'est surtout la bien 
 >
 > J'ai par contre par curiosité personnelle pu me plonger dans les tests avec **Jest**, ou explorer **React Native**, ou du **React** simple dans une application **Electron**.
 
+Si cela a une quelquonque valeur pour vous, j'ai également passé quelques tests sur pluralsight, avant tout à des fins d'auto-évaluation.
+
+![capture-score-luralsight](./pluralsight.png)
+
+https://app.pluralsight.com/profile/tonytiratay
 
 # Ta motivation à rejoindre O'clock
 
