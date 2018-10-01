@@ -72,5 +72,10 @@ https://app.pluralsight.com/profile/tonytiratay
 >
 > J'apprécie le fait que le temps de travail soit réparti entre formation / accompagnement des apprenants, et amélioration / création de contenus et de solutions pour votre plateforme.
 >
-**C'est ce autour de quoi je gravite depuis les débuts de ma carrière professionnelle**, et O'clock est pour moi une sorte de quintescence de ce que j'ai pu apprendre au cours de cette dernière dizaine d'années. Je reconnais l'experience derrière vos mots, j'adorerais évoluer avec vous, pour apprendre de votre experience, et également partager la mienne.
+> Le côté à distance m'attire également beaucoup, puisque c'est ainsi que nous avons fonctionné avec Simplon sur mes dernières missions:
+>
+> * 100% à distance pour la formation full stack, 
+> * 1 jour en présentiel, une fois toutes les 2 semaines, pour le développement de leur plateforme.
+
+**C'est ce autour de quoi je gravite depuis les débuts de ma carrière professionnelle**, et O'clock est pour moi une sorte de quintescence de ce que j'ai pu apprendre au cours de cette dernière décennie. Je reconnais l'experience derrière vos mots, j'adorerais évoluer avec vous, pour apprendre de votre experience, et bien sûr partager la mienne.
 
