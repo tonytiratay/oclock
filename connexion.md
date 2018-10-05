@@ -40,19 +40,19 @@ Lorsque j'ai voulu faire mes tests en début d'apres midi, nperf ne répondait p
 
 Je vais donc m'appuyer dessus pour vous montrer l'évolution du ping et des débits tout au long de la journée. Vous trouverez à la fin de cette fiche tous les liens pour aller voir résultat par résultat ce qui est synthetisé ici, y compris ceux réalisés avec nperf
 
-### Download entre 14h30 et 20h30
+### Download entre 14h30 et 12h10 le lendemain
 
 **Minimum**: 7,31 MBPS / **Maximum:** 36,48 MBPS
 
 ![5bb7399bb2a41](https://i.loli.net/2018/10/05/5bb7399bb2a41.png)
 
-### Upload entre 14h30 et 20h30
+### Upload entre 14h30 et 12h10 le lendemain
 
 **Minimum**: 5,37 MBPS / **Maximum:** 16,65 MBPS
 
 ![5bb739ac06e1b](https://i.loli.net/2018/10/05/5bb739ac06e1b.png)
 
-## Ping entre 14h30 et 20h30
+## Ping entre 14h30 et 12h10 le lendemain
 
 >  Le ping est en moyenne à 39, avec un **minimum** de 30 ms et un **maximum** de 44 ms.
 
